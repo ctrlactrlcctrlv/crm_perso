@@ -20,3 +20,8 @@ htmlcov/
 .idea/
 .vscode/
 *.log
+
+
+# contact list
+
+contacts.json
